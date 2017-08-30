@@ -32,6 +32,7 @@ In the course of researching the backup/restore topic in the context of Kubernet
 - [ose-auto/backup.sh](https://github.com/sterburg/ose-auto/blob/master/backup.sh), master-config (etcd) and statefull data backup using pod (technology) discovery by [Samuel Terburg](https://github.com/sterburg)
 - [kubernetes-incubator/bootkube](https://github.com/kubernetes-incubator/bootkube/blob/master/Documentation/disaster-recovery.md#bootkube-recover), a low-level recovery tool
 - [pieterlange/kube-backup](https://github.com/pieterlange/kube-backup), a resource state sync to Git inspired by RANCID
+- [kaptaind](https://github.com/kaptaind/kaptaind) is a resource sync, backup and restore tool for Kubernetes.
 - The OpenShift [Backup and Restore](https://docs.openshift.com/container-platform/3.5/admin_guide/backup_restore.html) docs
 - Related Kubernetes issues are:
   - #[24229](https://github.com/kubernetes/kubernetes/issues/24229) Backup/migrate cluster?
